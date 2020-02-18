@@ -1,0 +1,11 @@
+C:\repos\CSC4151-Integration\CSC4151-Integration\bin\Debug\netcoreapp3.1\CSC4151-Integration.exe
+C:\repos\CSC4151-Integration\CSC4151-Integration\bin\Debug\netcoreapp3.1\CSC4151-Integration.deps.json
+C:\repos\CSC4151-Integration\CSC4151-Integration\bin\Debug\netcoreapp3.1\CSC4151-Integration.runtimeconfig.json
+C:\repos\CSC4151-Integration\CSC4151-Integration\bin\Debug\netcoreapp3.1\CSC4151-Integration.runtimeconfig.dev.json
+C:\repos\CSC4151-Integration\CSC4151-Integration\bin\Debug\netcoreapp3.1\CSC4151-Integration.dll
+C:\repos\CSC4151-Integration\CSC4151-Integration\bin\Debug\netcoreapp3.1\CSC4151-Integration.pdb
+C:\repos\CSC4151-Integration\CSC4151-Integration\obj\Debug\netcoreapp3.1\CSC4151-Integration.csprojAssemblyReference.cache
+C:\repos\CSC4151-Integration\CSC4151-Integration\obj\Debug\netcoreapp3.1\CSC4151-Integration.AssemblyInfoInputs.cache
+C:\repos\CSC4151-Integration\CSC4151-Integration\obj\Debug\netcoreapp3.1\CSC4151-Integration.AssemblyInfo.cs
+C:\repos\CSC4151-Integration\CSC4151-Integration\obj\Debug\netcoreapp3.1\CSC4151-Integration.dll
+C:\repos\CSC4151-Integration\CSC4151-Integration\obj\Debug\netcoreapp3.1\CSC4151-Integration.pdb

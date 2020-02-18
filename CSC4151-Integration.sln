@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSC4151-Integration", "CSC4151-Integration\CSC4151-Integration.csproj", "{FFD33019-FBA0-4370-ADE9-74360E3D331E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTests", "AzureAdIntegrationTest\IntegrationTests.csproj", "{C6DBBBCA-6665-4974-8B17-08A16FB4DB1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD33019-FBA0-4370-ADE9-74360E3D331E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD33019-FBA0-4370-ADE9-74360E3D331E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD33019-FBA0-4370-ADE9-74360E3D331E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD33019-FBA0-4370-ADE9-74360E3D331E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6DBBBCA-6665-4974-8B17-08A16FB4DB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DBBBCA-6665-4974-8B17-08A16FB4DB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DBBBCA-6665-4974-8B17-08A16FB4DB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DBBBCA-6665-4974-8B17-08A16FB4DB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2F3B0E3-20EA-4BAA-B600-5685110C72BA}
+	EndGlobalSection
+EndGlobal
