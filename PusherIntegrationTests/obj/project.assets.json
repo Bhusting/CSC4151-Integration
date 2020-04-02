@@ -7204,23 +7204,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Brian Husting\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\sam\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\CSC4151-Integration\\PusherIntegrationTests\\PusherIntegrationTests.csproj",
+      "projectUniqueName": "R:\\Code\\Source Tree\\Integration test\\PusherIntegrationTests\\PusherIntegrationTests.csproj",
       "projectName": "PusherIntegrationTests",
-      "projectPath": "C:\\repos\\CSC4151-Integration\\PusherIntegrationTests\\PusherIntegrationTests.csproj",
-      "packagesPath": "C:\\Users\\Brian Husting\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\CSC4151-Integration\\PusherIntegrationTests\\obj\\",
+      "projectPath": "R:\\Code\\Source Tree\\Integration test\\PusherIntegrationTests\\PusherIntegrationTests.csproj",
+      "packagesPath": "C:\\Users\\sam\\.nuget\\packages\\",
+      "outputPath": "R:\\Code\\Source Tree\\Integration test\\PusherIntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Brian Husting\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7284,7 +7280,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
