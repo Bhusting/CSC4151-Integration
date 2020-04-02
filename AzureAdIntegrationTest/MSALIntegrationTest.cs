@@ -15,6 +15,7 @@ namespace IntegrationTests
         [Fact]
         public async Task MSALTokenExample()
         {
+            //comment
             var client = new GraphClient(clientId, tenantId, new string[] { "user.read" });
 
             var token = await client.GetAccessToken();
