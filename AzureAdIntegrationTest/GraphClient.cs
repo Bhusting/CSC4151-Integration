@@ -11,7 +11,7 @@ namespace AzureAdIntegrationTest
 {
     public class GraphClient
     {
-
+        // New comment
         private IPublicClientApplication _msalClient;
         private string[] _scopes;
 
