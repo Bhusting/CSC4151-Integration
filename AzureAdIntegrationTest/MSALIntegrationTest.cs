@@ -19,6 +19,11 @@ namespace IntegrationTests
 
             var token = await client.GetAccessToken();
 
+            var httpClient = new HttpClient();
+            httpClient.BaseAddress = new Uri("https://localhost:44353");
+
+            var res = await httpClient.GetAsync("Ping");
+
         }
     }
 }

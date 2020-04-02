@@ -6,4 +6,9 @@
     <RootNamespace>CSC4151_Integration</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="PusherClient" Version="1.1.2" />
+    <PackageReference Include="PusherServer" Version="4.2.0" />
+  </ItemGroup>
+
 </Project>

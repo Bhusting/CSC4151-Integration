@@ -7706,9 +7706,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\CSC4151-Integration\\AzureAdIntegrationTest\\IntegrationTests.csproj",
-      "projectName": "IntegrationTests",
-      "projectPath": "C:\\repos\\CSC4151-Integration\\AzureAdIntegrationTest\\IntegrationTests.csproj",
+      "projectUniqueName": "C:\\repos\\CSC4151-Integration\\AzureAdIntegrationTest\\MSALIntegrationTests.csproj",
+      "projectName": "MSALIntegrationTests",
+      "projectPath": "C:\\repos\\CSC4151-Integration\\AzureAdIntegrationTest\\MSALIntegrationTests.csproj",
       "packagesPath": "C:\\Users\\Brian Husting\\.nuget\\packages\\",
       "outputPath": "C:\\repos\\CSC4151-Integration\\AzureAdIntegrationTest\\obj\\",
       "projectStyle": "PackageReference",

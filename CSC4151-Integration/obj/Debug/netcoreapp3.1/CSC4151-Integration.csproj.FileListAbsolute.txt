@@ -9,3 +9,9 @@ C:\repos\CSC4151-Integration\CSC4151-Integration\obj\Debug\netcoreapp3.1\CSC4151
 C:\repos\CSC4151-Integration\CSC4151-Integration\obj\Debug\netcoreapp3.1\CSC4151-Integration.AssemblyInfo.cs
 C:\repos\CSC4151-Integration\CSC4151-Integration\obj\Debug\netcoreapp3.1\CSC4151-Integration.dll
 C:\repos\CSC4151-Integration\CSC4151-Integration\obj\Debug\netcoreapp3.1\CSC4151-Integration.pdb
+C:\repos\CSC4151-Integration\CSC4151-Integration\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\repos\CSC4151-Integration\CSC4151-Integration\bin\Debug\netcoreapp3.1\PusherClient.dll
+C:\repos\CSC4151-Integration\CSC4151-Integration\bin\Debug\netcoreapp3.1\SuperSocket.ClientEngine.dll
+C:\repos\CSC4151-Integration\CSC4151-Integration\bin\Debug\netcoreapp3.1\WebSocket4Net.dll
+C:\repos\CSC4151-Integration\CSC4151-Integration\obj\Debug\netcoreapp3.1\CSC4151-Integration.csproj.CopyComplete
+C:\repos\CSC4151-Integration\CSC4151-Integration\bin\Debug\netcoreapp3.1\PusherServer.Core.dll
